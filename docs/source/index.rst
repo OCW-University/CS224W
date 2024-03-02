@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   node_embedding
+   
