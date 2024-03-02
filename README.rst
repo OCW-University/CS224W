@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Stanford CS224W: Machine Learning with Graphs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
-Read the tutorial here:
+Official website: https://web.stanford.edu/class/cs224w/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Video lectures: https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=sgTc2RhWXW2jD_m-
