@@ -8,6 +8,10 @@ Node Embedding
     Colabs: `Colab 0 <https://colab.research.google.com/drive/10-8W1e_WOX4-YocROm8tHbtmn1frUf2S>`_, `Colab 1 <https://colab.research.google.com/drive/1vvIoEqxGl1naopTZbh4bmCOLEiCxvcQq>`_
 
 
+Graph representation Learning
+-----------------------------
+
+
 Random walk approaches
 ----------------------
 
@@ -31,4 +35,13 @@ Why
 
 How
 """
+
+- Negative sampling
+
+
+Node2vec: biased random walk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Other random walk methods
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
