@@ -36,8 +36,12 @@ Why
 
 How
 ^^^
-1. self-supervised learning techniques as follows.
 
+Node embedding with encoder + decoder framework
+
+1. Define a similarity metric.
+2. Use 2 parametic functions, i.e. encoder and decoder, to complete a roundtrip between the vertice set and the embedding space
+3. Optimize the parameters such that the inner products in the embedding space approximates the similarity.
 
 
 Random walk optimization
