@@ -1,5 +1,5 @@
 Stanford CS224W: Machine Learning with Graphs
-===================================
+=============================================
 
 This is a note taking doc for Stanford CS224W open course version.
 
@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   node_embedding
+   
